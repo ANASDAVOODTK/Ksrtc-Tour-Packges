@@ -2,24 +2,24 @@
     "data": [
         {
             "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Munnar_hillstation_kerala.jpg/1200px-Munnar_hillstation_kerala.jpg",
-            "title": "test1",
-            "subTitle": "test",
-            "fare": "1000/-",
-            "contact": "test"
+            "title": "Malappuram - Munnar",
+            "subTitle": "Daily",
+            "fare": "1000 to 1500",
+            "contact": "9447203014, 9995090216, 9400467115,"
         },
         {
             "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Munnar_hillstation_kerala.jpg/1200px-Munnar_hillstation_kerala.jpg",
-            "title": "test2",
-            "subTitle": "test",
-            "fare": "1000/-",
-            "contact": "test"
+            "title": "Chalakkudi - Malakkappara",
+            "subTitle": "Weekends/Holidays",
+            "fare": "300",
+            "contact": "0480 2701638, 9747557737"
         },
         {
             "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Munnar_hillstation_kerala.jpg/1200px-Munnar_hillstation_kerala.jpg",
-            "title": "test3",
-            "subTitle": "test",
-            "fare": "1000/-",
-            "contact": "test"
+            "title": "Harippad - Malakkappara",
+            "subTitle": "Weekends/Holidays",
+            "fare": "600",
+            "contact": "9947812214, 9447975789, 9947573211,"
         }
     ]
 }
